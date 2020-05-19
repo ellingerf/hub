@@ -11,7 +11,7 @@ On this page **F**requently **A**sked **Q**uestions about eLearning Sharing can 
 
 ### How can I enroll for a course?
 
-In order to enroll for a course, you must matriculate at the university hosting the course. This can be done easily by sending an **e-mail** to the international office of the partner university.
+In order to enroll for a course, you must apply to the International Office at your home university specifying which partner university you would like to study with. This can be done easily by sending an **e-mail** to the International Office or International Coordinator of your home university. Your home university has to nominate you first at the partner university.
 
 You can enroll for a course by clicking the ```Enroll``` button on the details page of the course. Then you will get to the [enrollment page](../general/enroll.html) with further information.
 
@@ -25,23 +25,23 @@ Yes. Just in case, you can ask your program lead or the responsible person at yo
 
 Yes. The actual number of assignments and exams is dependent on the course. You can find the information about grading at the respective details page of the course.
 
-### How does a typical exam look like?
+### What does a typical exam/assessment look like?
 
 This depends on the course and the lecturer. This can be for example an online multiple choice test or an oral exam using video conferencing.  
 
-### How does a typical assignment look like?
+### What does a typical assignment look like?
 
 An assignment is typically a graded exercise, where your result must be uploaded to the learning management system of the course. The lecturer might schedule a video conference to proof the authenticity of your result.
 
 ### What if I fail the exam?
 
-You are matriculated as a regular student at the partner university and have the same rights and duties as such. If you fail, you will have to redo respective assignments and/or exams until you pass the course. The number of attempts and dates should be announced by the lecturers of the course. If all attempts fail, you will not be able to get grades for recognition at your home university.
+You are registered as a student at the partner university and have the same rights and duties as such. If you fail, you will have to redo respective assignments and/or exams until you pass the course. The number of attempts and dates should be announced by the lecturers of the course. If all attempts fail, you will not be able to get grades for recognition at your home university.
 
 ## Course Recognition
 
 ### Will I get a grade certificate?
 
-Yes. As soon as you have passed the course successfully, you will get a grade certificate issued by the university hosting the course. This can take up to 5 weeks after the completion of the course.
+Yes. As soon as you have passed the course successfully, you will get a grade certificate issued by the university hosting the course. This can take up to 5 weeks after the release of the results online.
 
 ### How do I get my course certificate?
 
